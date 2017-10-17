@@ -1,0 +1,300 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 最後の 検索パターン:
+~MSle0~/wgLogo
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+:q!
+:wq
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/wgLogo
+?/mysql
+?/PHPIniDir
+?/IfModule
+?/IfModule mine_module
+?/php
+?/LoadModule
+?/VirtualHost
+?/wiki
+?/Document
+?/true
+?/Loca
+?/Localization
+?/sqlite
+?/wgUpgrade
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""1	LINE	0
+	    "HEALTHCHECK_ASSIGNMENT_WEEKLY_URL": "https://hchk.io/1359abdb-3bdb-48f4-ba47-bc68cc20fef9"
+"2	LINE	0
+	    "HEALTHCHECK_ASSIGNMENT_NOTIFICATION_URL": "https://hchk.io/7cad03c3-ce20-4a3e-852c-1e410c177960",
+"3	LINE	0
+	    "HEALTHCHECK_ASSIGNMENT_CRON_URL": "https://hchk.io/fe9f8ed2-11bc-4a4e-83ff-f09a4baadc58",
+"4	LINE	0
+	    "SLACK_WEBHOOK": "https://hooks.slack.com/services/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",
+"5	LINE	0
+	    "REDIS_URL": "redis://127.0.0.1:6379",
+"6	LINE	0
+	    "DAV_PASSWORD": "denkikei",
+"7	LINE	0
+	    "WIKI_PASSWORD": "denkikeibot",
+"8	LINE	0
+	  "config": {
+"9	LINE	0
+	WIKI_PASSWORD=denkikeibot
+
+# ファイルマーク:
+'0  30  0  ~/.zpreztorc
+'1  1  0  ~/.zpre
+'2  1  0  /etc/eeicbot/start.sh
+'3  1  0  /etc/httpd/conf.d/vhost-dav.conf
+'4  579  0  /etc/httpd/conf/httpd.conf
+'5  149  0  /var/www/wiki/LocalSettings.php
+'6  25  0  ~/.zshrc
+'7  1  0  ~/
+'8  2  0  ~/
+'9  23  19  /etc/rc.d/init.d/eeicbot
+
+# ジャンプリスト (新しいものが先):
+-'  30  0  ~/.zpreztorc
+-'  1  0  ~/.zpreztorc
+-'  1  0  ~/.zpre
+-'  1  0  /etc/eeicbot/start.sh
+-'  1  0  /etc/httpd/conf.d/vhost-dav.conf
+-'  579  0  /etc/httpd/conf/httpd.conf
+-'  466  0  /etc/httpd/conf/httpd.conf
+-'  149  0  /var/www/wiki/LocalSettings.php
+-'  148  0  /var/www/wiki/LocalSettings.php
+-'  25  0  ~/.zshrc
+-'  1  0  ~/
+-'  2  0  ~/
+-'  23  19  /etc/rc.d/init.d/eeicbot
+-'  45  0  /etc/rc.d/init.d/eeicbot
+-'  1  0  /etc/eeicbot/assignment-notifier.js
+-'  1  0  /etc/eeicbot/index.js
+-'  1  0  /etc/rc.d/init.d/eeicbot
+-'  11  4  ~/eeic2018bot/package.json
+-'  2  46  ~/eeic2018bot/index.js
+-'  1  0  ~/eeic2018bot/index.js
+-'  24  4  ~/eeic2018bot/package.json
+-'  1  0  ~/eeic2018bot/wiki.js
+-'  21  0  ~/.zshrc
+-'  26  0  ~/.zshrc
+-'  7  0  ~/.npmrc
+-'  1  0  ~/.npmrc
+-'  7  33  ~/eeic2018bot/.npmrc
+-'  1  0  ~/eeic2018bot/.npmrc
+-'  26  0  ~/eeic2018bot/package.json
+-'  1  0  ~/eeic2018bot/pack
+-'  18  0  ~/.zshrc
+-'  25  4  ~/eeic2018bot/package.json
+-'  1  0  ~/eeic2018bot/package.json
+-'  27  0  ~/.zshrc
+-'  1  0  ~/.zshrc
+-'  147  0  /var/www/wiki/LocalSettings.php
+-'  39  41  /var/www/wiki-bak/LocalSettings.php
+-'  40  0  /var/www/wiki-bak/LocalSettings.php
+-'  143  0  /var/www/wiki-bak/LocalSettings.php
+-'  139  0  /var/www/wiki-bak/LocalSettings.php
+-'  1  0  /var/www/wiki-bak/L
+-'  177  0  /var/www/wiki/extensions/News/README
+-'  1  0  /var/www/wiki/extensions/News/README
+-'  34  0  /var/www/wiki/extensions/Comments/extension.json
+-'  1  0  /var/www/wiki/extensions/Comments/extension.json
+-'  135  0  /var/www/wiki/LocalSettings.php
+-'  138  0  /var/www/wiki-bak/LocalSettings.php
+-'  55  0  /var/www/wiki-bak/LocalSettings.php
+-'  54  0  /var/www/wiki/LocalSettings.php
+-'  151  0  /var/www/wiki-bak/LocalSettings.php
+-'  75  0  /var/www/wiki-bak/LocalSettings.php
+-'  1  0  /etc/php.ini
+-'  125  2  /etc/httpd/conf/httpd.conf
+-'  118  1  /etc/httpd/conf/httpd.conf
+-'  109  2  /etc/httpd/conf/httpd.conf
+-'  102  1  /etc/httpd/conf/httpd.conf
+-'  971  3  /etc/httpd/conf/httpd.conf
+-'  968  3  /etc/httpd/conf/httpd.conf
+-'  965  2  /etc/httpd/conf/httpd.conf
+-'  945  2  /etc/httpd/conf/httpd.conf
+-'  890  2  /etc/httpd/conf/httpd.conf
+-'  889  2  /etc/httpd/conf/httpd.conf
+-'  859  1  /etc/httpd/conf/httpd.conf
+-'  858  1  /etc/httpd/conf/httpd.conf
+-'  567  2  /etc/httpd/conf/httpd.conf
+-'  564  1  /etc/httpd/conf/httpd.conf
+-'  447  2  /etc/httpd/conf/httpd.conf
+-'  444  1  /etc/httpd/conf/httpd.conf
+-'  421  0  /etc/httpd/conf/httpd.conf
+-'  216  0  /etc/httpd/conf/httpd.conf
+-'  1  0  /usr/lib64/httpd/modules/httpd.conf
+-'  161  31  /etc/httpd/conf/httpd.conf
+-'  291  0  /etc/httpd/conf/httpd.conf
+-'  1  0  /etc/httpd/conf/httpd
+-'  74  0  /etc/httpd/conf.d/ssl.conf
+-'  1  0  /etc/httpd/conf.d/ssl.conf
+-'  89  0  /etc/httpd/vhosts.d/eeic.conf
+-'  1  0  /etc/httpd/vhosts.d/eeic.conf
+-'  1  0  /etc/httpd/vhosts.d/awstats-le-ssl.conf
+-'  39  0  /etc/httpd/conf.d/awstats.conf
+-'  1  0  /etc/httpd/conf.d/awstats.conf
+-'  1  0  /etc/httpd/vhosts.d/wiki.conf
+-'  33  0  /etc/httpd/vhosts.d/__default__
+-'  1  0  /etc/httpd/vhosts.d/__default__
+-'  289  0  /etc/httpd/conf/httpd.conf
+-'  1  0  /etc/httpd/conf/httpd.con
+-'  591  0  /etc/httpd/conf/httpd.conf.bak
+-'  1  0  /etc/httpd/conf/httpd.conf.bak
+-'  43  0  /var/www/wiki/index.php
+-'  1  0  /var/www/wiki/index.php
+-'  36  0  /etc/httpd/conf.d/ssl.conf
+-'  170  0  /etc/httpd/conf/httpd.conf
+-'  8  0  /etc/httpd/conf/httpd.conf
+-'  177  0  /etc/httpd/conf.d/ssl.confold
+-'  1  0  /etc/httpd/conf.d/ssl.confold
+-'  45  0  /etc/httpd/conf.d/ssl.conf
+-'  209  0  /etc/httpd/conf.d/ssl.conf.rpmnew
+-'  1  0  /etc/httpd/conf.d/ssl.conf.rpmnew
+-'  1  0  /etc/httpd/conf.d/ssl.rpmnew
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.zpreztorc
+	"	30	0
+
+> ~/.zpre
+	"	1	0
+
+> /etc/eeicbot/start.sh
+	"	1	0
+
+> /etc/httpd/conf.d/vhost-dav.conf
+	"	1	0
+
+> /etc/httpd/conf/httpd.conf
+	"	579	0
+
+> /var/www/wiki/LocalSettings.php
+	"	149	0
+	^	147	0
+	.	147	0
+	+	147	0
+
+> ~/.zshrc
+	"	25	0
+	^	25	7
+	.	25	7
+	+	27	0
+	+	25	90
+	+	19	10
+	+	20	34
+	+	21	45
+	+	22	10
+	+	22	104
+	+	23	10
+	+	24	105
+	+	25	10
+	+	25	99
+	+	19	6
+	+	20	6
+	+	21	6
+	+	22	6
+	+	23	6
+	+	24	6
+	+	25	6
+	+	19	7
+	+	20	7
+	+	21	6
+	+	22	7
+	+	23	7
+	+	24	7
+	+	25	7
+
+> /etc/rc.d/init.d/eeicbot
+	"	23	19
+	^	23	20
+
+> /etc/eeicbot/assignment-notifier.js
+	"	1	0
+
+> /etc/eeicbot/index.js
+	"	1	0
+
+> ~/eeic2018bot/package.json
+	"	11	4
+	^	11	43
+	.	11	41
+	+	25	32
+	+	25	28
+	+	25	39
+	+	25	22
+	+	25	40
+	+	25	99
+	+	25	90
+	+	25	0
+	+	25	0
+	+	11	41
+
+> ~/eeic2018bot/index.js
+	"	2	46
+	^	2	47
+	.	3	0
+	+	3	21
+	+	3	0
+
+> ~/eeic2018bot/wiki.js
+	"	1	0
+
+> ~/.npmrc
+	"	7	0
+
+> ~/eeic2018bot/.npmrc
+	"	7	33
+	^	7	34
+	.	7	34
+	+	7	94
+	+	1	0
+	+	2	0
+	+	2	23
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	1	25
+	+	2	13
+	+	3	32
+	+	4	14
+	+	5	13
+	+	4	91
+	+	5	32
+	+	6	92
+	+	7	34
+
+> ~/eeic2018bot/pack
+	"	1	0
+
+> /var/www/wiki-bak/LocalSettings.php
+	"	39	41
+
+> /var/www/wiki-bak/L
+	"	1	0
+
+> /var/www/wiki/extensions/News/README
+	"	177	0
+
+> /var/www/wiki/extensions/Comments/extension.json
+	"	34	0
