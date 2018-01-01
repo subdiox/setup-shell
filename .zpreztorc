@@ -35,19 +35,19 @@ zstyle ':prezto:load' pmodule \
   'utility' \
   'completion' \
   'git' \
+  'homebrew' \
   'syntax-highlighting' \
   'history-substring-search' \
   'ssh' \
+  'osx' \
   'prompt'
 
 #
 # Autosuggestions
 #
 
-zstyle ':prezto:module:autosuggestions' color 'yes'
-
 # Set the query found color.
-zstyle ':prezto:module:autosuggestions:color' found 'gray'
+zstyle ':prezto:module:autosuggestions:color' found ''
 
 #
 # Completions
